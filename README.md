@@ -1,4 +1,4 @@
-## Table of Contents
+## Casistiche redirect
 
 1. [Redirect di tutti gli URL che iniziano con una parola ad un unico URL](#1)
 2. [Redirect di un URL con parametro a URL senza parametro](#2)
