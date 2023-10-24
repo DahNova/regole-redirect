@@ -9,7 +9,7 @@
     - [REGEXP_REPLACE BASE](#basic-regexp_replace)
     - [REGEXP_MATCH CASE BASE](#basic-regexp_match-case)
     - [REGEXP_MATCH CASE LINGUA IT e EN](#regexp_match-case-for-languages-it-and-en)
-2. [Redirect Rules](#redirect-rules)
+2. [REGEXP REPLACE ESEMPIO](#redirect-rules)
 
 ---
 
